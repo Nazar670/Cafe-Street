@@ -405,6 +405,7 @@ body {
     flex: 0 1 50%;
     display: flex;
     justify-content: center;
+    padding: 50px 0px;
 }
 .about_us_title {
     color: #000;
@@ -536,9 +537,9 @@ body {
 /*  Reviews Section  */
 
 .reviews {
-    background: url(img/bg-image.svg);
+    background: url(img/about-bg.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 65% 100%;
     padding: 70px 0px;
 }
 .reviews_body {
